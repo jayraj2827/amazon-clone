@@ -9,8 +9,5 @@ A front-end clone of Amazon's homepage using HTML, CSS, and JavaScript.
 - Static design focusing on structure and visuals
 - Beginner-friendly project
 
-## Preview
-![screenshot](screenshot.png)
-
 ## Author
 Jayraj Prajapati
